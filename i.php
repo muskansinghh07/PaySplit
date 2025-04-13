@@ -1,0 +1,1 @@
+echo "<tr><td>" . htmlspecialchars($row["person"]) . "</td><td>₹" . $row["total"] . "</td></tr>";
