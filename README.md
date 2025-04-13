@@ -1,1 +1,1 @@
-# PaySplit
+ PaySplit provides a seamless, web-based solution for managing and splitting shared expenses among groups. It allows users to log expenditures, track individual contributions, and automatically calculate settlements in real-time. With a user-friendly interface and organized data handling, PaySplit eliminates ambiguity and ensures fairness by offering clear insights into who owes whom—ultimately fostering trust and transparency in group financial interactions![image](https://github.com/user-attachments/assets/62775252-9121-4c45-a498-1dd0207a379a)
